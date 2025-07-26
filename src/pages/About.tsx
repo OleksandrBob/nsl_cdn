@@ -1,7 +1,7 @@
 
 const About = () => {
 
-    return (<div>About Sambo</div>);
+    return (<div>About Sambo Bitch</div>);
 };
 
 export default About;
